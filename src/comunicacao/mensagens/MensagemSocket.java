@@ -1,4 +1,4 @@
-package mensagemsocket;
+package comunicacao.mensagens;
 
 import java.io.Serializable;
 import java.util.HashMap;
