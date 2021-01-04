@@ -1,4 +1,4 @@
-package comunicacao.mensagens;
+package etgames.mensagens;
 
 import java.io.Serializable;
 import java.util.HashMap;

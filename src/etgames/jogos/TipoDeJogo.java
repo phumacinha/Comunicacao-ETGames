@@ -1,4 +1,4 @@
-package comunicacao.jogos;
+package etgames.jogos;
 
 /**Enum com os jogos disponíveis no servidor.
  *
